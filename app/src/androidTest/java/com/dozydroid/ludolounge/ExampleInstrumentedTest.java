@@ -1,4 +1,4 @@
-package com.approsoft.ludolounge;
+package com.dozydroid.ludolounge;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

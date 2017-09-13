@@ -1,4 +1,4 @@
-package com.approsoft.ludolounge;
+package com.dozydroid.ludolounge;
 
 import org.junit.Test;
 

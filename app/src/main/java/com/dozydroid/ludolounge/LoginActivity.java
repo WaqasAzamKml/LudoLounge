@@ -1,4 +1,4 @@
-package com.approsoft.ludolounge;
+package com.dozydroid.ludolounge;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBar;
