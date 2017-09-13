@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ludo Lounge</string>
+    <string name="facebook_app_id">170260226870905</string>
+    <string name="fb_login_protocol_scheme">fb170260226870905</string>
+</resources>
